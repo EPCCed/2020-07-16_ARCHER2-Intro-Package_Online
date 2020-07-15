@@ -1,6 +1,6 @@
 ---
 title: "ARCHER2 software environment "
-teaching: 10
+teaching: 15
 exercises: 0
 questions:
 - "What does the ARCHER2 software environment look like and how do I access software?"
