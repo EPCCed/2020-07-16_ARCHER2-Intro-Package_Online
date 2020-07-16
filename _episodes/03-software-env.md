@@ -261,7 +261,7 @@ If you want to swap two versions of the same module then you simply load the ver
 want to swap for the currently loaded version, Lmod recognises that they are the same module 
 with different versions and swaps them for you.
 
-## Licensed software
+## Licensed software
 
 Some of the software installed on ARCHER2 requires a user to have a valid licence agreed with the 
 software owners/developers to be able to use it (for example, VASP). Although you will be able to
